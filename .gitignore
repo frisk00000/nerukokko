@@ -1,0 +1,11 @@
+# PlatformIO
+tamago/.pio/
+
+# Python
+niwatori/__pycache__/
+niwatori/*.pyc
+niwatori/.venv/
+niwatori/venv/
+
+# OS
+.DS_Store
